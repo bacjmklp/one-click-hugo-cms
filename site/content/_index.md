@@ -27,7 +27,7 @@ products: []
 values:
   heading: My values
   text: >+
-    Truth recorded in Scripture and confirmed in
+    Truth detailed in Scripture and displayed in
     Creation.                                                     
 
     Dynamic human development based on sound science.                                                                                 
