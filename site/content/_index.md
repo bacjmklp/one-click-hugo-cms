@@ -12,9 +12,9 @@ blurb:
 intro:
   heading: If you are  eager to...
   text: >
-    ...travel the trail "Waking Up" and bring others with you -- as a friend,
-    educator, leader, mentor, or family member, here you'll find useful gear
-    such as:
+    ...travel the trail "Waking Up" and bring others with you -- as an educator,
+    leader, mentor, friend, or family member, here you'll find useful gear such
+    as:
 
     * Original posts, articles, and curriculum
 
