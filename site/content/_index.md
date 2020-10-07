@@ -8,16 +8,22 @@ blurb:
     the Imago Dei. This isn't an event; it's a process! Becoming attuned to His
     nature and purposes brings meaning to life!
 intro:
-  heading: Who I serve...
+  heading: Who & How I Serve...
   text: |
-    Individuals earnest to fully awake to their giftings and opportunities!
+    The Who:  
+    -- Individuals earnest to fully awake to their giftings and opportunities!
+    -- Educators eager to assist students to become wholly awake!
 
-    Educators eager to assist students to become wholly awake!
+    The How:
+    * Blog posts, articles, books, and curriculum
+    * Curated content from other valuable  voices
+    * Speaking, live and virtual
+    * Training videos
 products: []
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: My values
+  text: |+
+    Truth recorded in Scripture and confirmed in Creation.
+    Dynamic human development based on sound science.
+    Common sense and real-world application.
 ---
