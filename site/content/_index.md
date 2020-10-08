@@ -1,31 +1,23 @@
 ---
 title: Stephanie Presents
-subtitle: Awakening the Imago Dei
-image: img/dscf8768.jpg
+subtitle: Six Words for Navigating Life
+image: img/dscf8101.jpg
 blurb:
-  heading: Live Awake!
-  text: Everyone lives asleep until awakened to the image of God -- the Imago Dei
-    -- expressed in His character, methods, and purposes. This isn't an event;
-    it's a life-long process. Becoming attuned to His nature and desires and
-    aiding others in this journey provides meaning to every part of life.
+  heading: "Simple. Powerful. Exceptional. "
+  text: "Learn you. Love God. Live connected. Six words so basic they seem trite.
+    Yet this life is rare. It's simple, yet strenuous. Powerful, yet humbling.
+    Exceptional, yet achievable. "
 intro:
-  heading: "As an individual, educator, leader, "
+  heading: "As a speaker, teacher, writer, and strategist, "
   text: >
-    ...travel the trail "Waking Up" and bring others with you -- as an educator,
-    leader, mentor, friend, or family member, here you'll find useful gear such
-    as:
-
-    * Original posts, articles, and curriculum
-
-    * Curated content from other experienced trekkers
-
-    * Speaking engagements, live and virtual
-
-    * Recommended resources
+    I serve individuals, educators, parents, leaders, and mentors thirsty for
+    themselves and others to experience the life of vitality embodied in the
+    above six words: Learn you. Love God. Live connected. 
 products: []
 values:
-  heading: Life's Priorities
-  text: |+
-    Learn Yourself.
-    Love God. Live Connected.
+  heading: My Values
+  text: >
+    Respecting your time. Culling information from solid science. Aligning
+    strategies with common sense. Accurately interpreting and applying
+    Scripture.
 ---
