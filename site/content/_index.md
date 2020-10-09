@@ -1,20 +1,25 @@
 ---
-title: Stephanie Presents
-subtitle: Six Words for Navigating Life
+title: Stephanie Smith
+subtitle: Speaker, Writer, Teacher, Strategist
 image: img/dscf8101.jpg
 blurb:
-  heading: Learn you. Love God. Live connected.
-  text: "Concepts so basic they appear trite. Yet this life is rare. It's simple,
-    yet strenuous. Powerful, yet humbling. Exceptional, yet achievable. "
+  heading: Six Words for Navigating Life
+  text: >
+    Learn you. Love God. Live connected. Concepts so basic they appear trite.
+    Yet this life is rare. It's perilous, yet powerful. Humbling, yet heroic.
+    Arduous, yet achievable. 
+
+    Exquisite. Extraordinary. Eternal. 
 intro:
-  heading: I help individuals, educators, parents, and youth
-  text: "craft a life and legacy of earthly impact and eternal purpose through
-    *speaking, *teaching, *writing, *original materials, and *curated resources.
-    "
+  heading: "Outfitting individuals, educators, parents, leaders, and youth -- "
+  text: "who yearn for their life's voyage to be one of significance, wholeness,
+    and goodness -- through speaking presentations; teaching sessions; articles,
+    media resources, and curriculum; and curated recommendations. "
 products: []
 values:
   heading: My Values
   text: >
-    Charting astute solutions.  Steering with humility. Piloting Scripture
-    carefully. Anchoring in truth. Guiding by grace.
+    Delivering astute solutions.  Steering with humility. Respecting others'
+    time, giftings, and resources. Piloting Scripture carefully. Anchoring in
+    grace.
 ---
