@@ -15,7 +15,7 @@ intro:
   text: "who yearn for their life's voyage to be one of significance, wholeness,
     and goodness -- through speaking presentations; teaching sessions; articles,
     media resources, and curriculum; and curated recommendations. "
-products: []
+resources: []
 values:
   heading: My Values
   text: >
